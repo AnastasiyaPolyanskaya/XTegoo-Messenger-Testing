@@ -1,4 +1,4 @@
-# 2 -XTegoo Messenger Privacy & Stories Testing
+# 2 - XTegoo Messenger Privacy & Stories Testing
 
 Практический проект по ручному тестированию мобильного приложения XTegoo Messenger.
 
