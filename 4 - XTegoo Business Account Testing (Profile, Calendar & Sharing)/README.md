@@ -74,9 +74,9 @@
 
 ## Структура проекта
 
-- test-cases — тест-кейсы  
-- bug-reports — баг-репорты  
-- screenshots — скриншоты  
+- test-cases -тест-кейсы  
+- bug-reports - баг-репорты  
+- screenshots - скриншоты  
 
 ---
 
