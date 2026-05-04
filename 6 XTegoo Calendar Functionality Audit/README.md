@@ -1,4 +1,4 @@
-Проект № 5 - Calendar & Scheduling Features Testing
+Проект № 6 - Calendar & Scheduling Features Testing
 
 Практический проект по ручному тестированию функционала календаря и планирования встреч в мобильном мессенджере XTegoo.
 
