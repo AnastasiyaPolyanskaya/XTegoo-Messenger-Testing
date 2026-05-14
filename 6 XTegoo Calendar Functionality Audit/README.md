@@ -10,7 +10,7 @@
 
 Мобильное приложение XTegoo Messenger
 
-    Платформа: Android
+    Платформа: IOS
 
     Тип тестирования: Manual QA
 
