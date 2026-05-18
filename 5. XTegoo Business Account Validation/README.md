@@ -1,4 +1,5 @@
-Проект № 5: XTegoo Business Account Validation
+# 5 - XTegoo Business Account Validation
+
 Платформа: iOS
 Тип тестирования: ручное (Manual QA)
 Назначение
